@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhavesh Mali
 - 👀 I’m interested To get into google
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me with only a message
 - 😄 Pronouns: ...
